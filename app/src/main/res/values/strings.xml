@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Beauty_Suite_01</string>
+
+    <!-- Name der Behandlung -->
+    <string name="beh_name_a_ß1">Ausreinigungsbehandlung</string>
+    <string name="beh_name_a_ß2">Quickfresh</string>
+    <string name="beh_name_a_ß3">Klass. Gesichtsbeh.</string>
+    <string name="beh_name_a_ß4">Fruchtsäurebehandlung</string>
+
+    <string name="beh_name_b_ß1">Mikrodermabrasion</string>
+    <string name="beh_name_b_ß2">Microneedling</string>
+    <string name="beh_name_b_ß3">BB Glow Treatment</string>
+
+    <string name="beh_name_c_ß1">Wimpern färben</string>
+    <string name="beh_name_c_ß2">Wimpern entfernen</string>
+    <string name="beh_name_c_ß3">Verlängerung Augenecken</string>
+    <string name="beh_name_c_ß4">Verlängerung 1:1 Technik</string>
+    <string name="beh_name_c_ß5">Verdichtung 3-D Volumentechn.</string>
+
+    <string name="beh_name_d_ß1">Klassische Maniküre</string>
+    <string name="beh_name_d_ß2">Klass. Maniküre mit Lack</string>
+    <string name="beh_name_d_ß3">Nagelmodellage mit Tipps</string>
+    <string name="beh_name_d_ß4">Auffüllen/Verstärkung/Gel</string>
+    <string name="beh_name_d_ß5">Handmassage mit Peeling</string>
+
+    <string name="beh_name_e_ß1">Klassische Fußpflege</string>
+    <string name="beh_name_e_ß2">Klassische Fußpflege mit Lack</string>
+    <string name="beh_name_e_ß3">Klassische Fußpflege mit UV-Lack</string>
+    <string name="beh_name_e_ß4">Fußmassage S</string>
+    <string name="beh_name_e_ß5">Fußmassage L</string>
+
+
+    <!-- Dauer der Behandlung -->
+    <string name="beh_duration_a_ß1">Ausreinigungsbehandlung</string>
+    <string name="beh_durationa_ß2">Quickfresh</string>
+    <string name="beh_duration_a_ß3">Klass. Gesichtsbeh.</string>
+    <string name="beh_duration_a_ß4">Fruchtsäurebehandlung</string>
+
+    <string name="beh_duration_b_ß1">Mikrodermabrasion</string>
+    <string name="beh_duration_b_ß2">Microneedling</string>
+    <string name="beh_duration_b_ß3">BB Glow Treatment</string>
+
+    <string name="beh_duration_c_ß1">Wimpern färben</string>
+    <string name="beh_duration_c_ß2">Wimpern entfernen</string>
+    <string name="beh_duration_c_ß3">Verlängerung Augenecken</string>
+    <string name="beh_duration_c_ß4">Verlängerung 1:1 Technik</string>
+    <string name="beh_duration_c_ß5">Verdichtung 3-D Volumentechn.</string>
+
+    <string name="beh_duration_d_ß1">Klassische Maniküre</string>
+    <string name="beh_duration_d_ß2">Klass. Maniküre mit Lack</string>
+    <string name="beh_duration_d_ß3">Nagelmodellage mit Tipps</string>
+    <string name="beh_duration_d_ß4">Auffüllen/Verstärkung/Gel</string>
+    <string name="beh_duration_d_ß5">Handmassage mit Peeling</string>
+
+    <string name="beh_duration_e_ß1">Klassische Fußpflege</string>
+    <string name="beh_duration_e_ß2">Klassische Fußpflege mit Lack</string>
+    <string name="beh_duration_e_ß3">Klassische Fußpflege mit UV-Lack</string>
+    <string name="beh_duration_e_ß4">Fußmassage S</string>
+    <string name="beh_duration_e_ß5">Fußmassage L</string>
+
+
+</resources>
